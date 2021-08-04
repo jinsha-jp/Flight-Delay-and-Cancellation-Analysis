@@ -1,4 +1,4 @@
-# Flight-Delay-and-Cancellation-Analysis
+# Flight-Delay & Cancellation-Analysis
 
 Analyze flight delay and cancellation data 
 
@@ -12,7 +12,7 @@ The flight delay and cancellaton data for 2015  collected by the U.S. Department
 
 airlines : Airline code and names
 airports : Airport and location information
-flights
+flights  : Flight data with details of Delay in inutes, delay reasons, Cancellation reasons 
 
 
 # This dashboard helps to see:
