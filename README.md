@@ -24,6 +24,14 @@ flights  : Flight data with details of Delay in inutes, delay reasons, Cancellat
   - How long are the departure delays across various airline
   - Check the average departure delay of any particular airline across different route 
 
+Tools used:
+
+1- Python 2- Tableau public
+
+Skills needed to complete the job:
+
+1- Data Cleansing 2- Analytical Skills 3-  Business Intelligence Knowledge
+
 
 
 
