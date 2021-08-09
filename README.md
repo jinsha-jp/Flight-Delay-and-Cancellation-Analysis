@@ -5,7 +5,7 @@ https://public.tableau.com/app/profile/jinsha5776/viz/AirlineDelayAnalysis_16261
 
 # Project description
 
-Explore how various airlines are having departure and arrival delyas and cancellation of flights across different airports and time.
+Explore how various airlines are having departure and arrival delays and cancellation of flights across different airports and time.
 
 
 # Data
