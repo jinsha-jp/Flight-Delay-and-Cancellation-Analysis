@@ -9,7 +9,7 @@ Explore how various airlines are having departure and arrival delays and cancell
 
 
 # Data
-The flight delay and cancellaton data for 2015  collected by the U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics .
+The flight delay and cancellation data for 2015  collected by the U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics .
 
 airlines : Airline code and names
 airports : Airport and location information
